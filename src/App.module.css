@@ -1,0 +1,16 @@
+.navbar {
+   background-color: #385170;
+   text-align: center;
+   padding: 1em;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 100%;
+   border-radius: 15px;
+}
+body {
+   background-color: rgb(147, 175, 147); /* color de fondo semi-oscuro */
+ }
+ 
+
+ 
